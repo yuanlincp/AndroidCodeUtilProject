@@ -2,5 +2,116 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#54D2CC</color>
+
+    <color name="color_text_blue">#54D2CC</color>
+    <color name="color_text_blue2">#14B2A1</color>
+    <color name="color_transparent">@android:color/transparent</color>
+    <color name="color_3333">#333333</color>
+    <color name="color_585">#585858</color>
+
+    <color name="color_fef">#FEF1C6</color>
+    <color name="color_f2d">#F2D9A1</color>
+    <color name="color_1">#FAB558</color>
+    <color name="color_2">#D0932F</color>
+    <color name="color_orange">#FDC534</color>
+    <color name="color_ffd">#FFD6B0</color>
+    <color name="color_d7b">#D7B88B</color>
+    <color name="color_f4e">#F4E6CB</color>
+    <color name="color_8e5">#FFF8E5</color>
+    <color name="color_d4b">#D4B282</color>
+    <color name="color_ebe">#EBE041</color>
+    <color name="color_fda">#FDA754</color>
+    <color name="color_f1d">#F1D038</color>
+
+    <color name="color_e2e">#E2E0E0</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_ccc">#CCCCCC</color>
+
+    <color name="color_fe3">#FE3D7A</color>
+    <color name="color_f93">#F93A78</color>
+    <color name="color_ee4">#EE453A</color>
+
+    <!--进度的颜色-->
+    <color name="color_progress_bg">#DD4138</color>
+    <!--进度的缓冲颜色-->
+    <color name="color_progress_second_bg">#E25C54</color>
+    <!--进度的背景色-->
+    <color name="color_progress_third_bg">#EB938D</color>
+
+    <color name="color_fd6">#FD61C8</color>
+
+    <color name="color_ae2">#AE2925</color>
+    <color name="color_e25">#E25C54</color>
+    <color name="color_e46">#E46C64</color>
+    <color name="color_f7c">#F7C6C2</color>
+    <color name="color_ff0">#FF0000</color>
+    <color name="color_d61">#D6172C</color>
+    <color name="color_ff3">#FF3333</color>
+    <color name="color_723">#72301E</color>
+
+    <color name="color_ff7">#FF7D00</color>
+    <color name="color_ff9">#FF9500</color>
+    <color name="color_ff6">#FF6446</color>
+    <color name="color_f09">#F0944F</color>
+    <color name="color_ff4">#FF4F01</color>
+    <color name="color_fe7">#FE715F</color>
+    <color name="color_f07">#F07C7C</color>
+    <color name="color_f47">#F47435</color>
+    <color name="color_ffb">#FFB263</color>
+    <color name="color_f2e">#F2E1CE</color>
+    <color name="color_f2c">#F2C092</color>
+    <color name="color_e88">#E88E62</color>
+    <color name="color_f28">#F28F38</color>
+    <color name="color_f2c4">#F2C47C</color>
+
+    <color name="color_f9d">#F9D375</color>
+    <color name="color_fee">#FEEBE4</color>
+
+    <color name="color_text_black">#3B3949</color>
+    <color name="color_text_black2">#231815</color>
+    <color name="color_0000">#000000</color>
+    <color name="color_575">#57514F</color>
+    <color name="color_4c4">#4C4C4C</color>
+    <color name="color_cfc">#CFC5CD</color>
+    <color name="color_727">#727272</color>
+    <color name="color_676">#676767</color>
+    <color name="color_595">#595757</color>
+    <color name="color_7c7">#7C7C7C</color>
+    <color name="color_8a8">#8A857C</color>
+    <color name="color_8b8">#8B8997</color>
+    <color name="color_a0a">#A0A0A0</color>
+    <color name="color_text_gray">#999999</color>
+    <color name="color_989">#989898</color>
+    <color name="color_b0b">#B0B0B0</color>
+    <color name="color_d0c">#D0CFCE</color>
+    <color name="color_bfb">#BFBFBF</color>
+    <color name="color_c9c">#C9C7D2</color>
+    <color name="color_f4f">#F4F4F4</color>
+    <color name="color_e5e">#E5E5E5</color>
+    <color name="color_f6f">#F6F5FC</color>
+
+    <color name="color_708">#708FEF</color>
+    <color name="color_588">#588DED</color>
+
+    <color name="color_294">#29426F</color>
+    <color name="color_145">#145399</color>
+    <color name="color_316">#316479</color>
+    <color name="color_37b">#37B1ED</color>
+    <color name="color_a15">#A156F6</color>
+    <color name="color_21a">#21AEFF</color>
+    <color name="color_0a3">#0A37FA</color>
+    <color name="color_399">#399CFF</color>
+    <color name="color_fff0">#FFF0CF</color>
+    <color name="color_49d">#49D0C9</color>
+    <color name="color_green">#009944</color>
+    <color name="color_00c">#00CFA4</color>
+    <color name="color_824">#824108</color>
+    <color name="color_d5b">#D5B485</color>
+    <color name="color_8aa">#8AAD50</color>
+    <color name="color_69b">#69BFE7</color>
+    <color name="color_fe9">#FE9E61</color>
+    <color name="color_878">#8787EB</color>
+
+
 </resources>

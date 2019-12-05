@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidCodeProject</string>
+
+    <string name="toast_expression">不支持输入表情</string>
 </resources>
